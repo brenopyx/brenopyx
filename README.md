@@ -1,9 +1,7 @@
 # 🥷🏼 Breno Cruz
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Anton&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=%3C+Hello+There!+%3E+" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Anton&size=22&pause=1500&color=FFB000&center=true&vCenter=true&width=320&lines=%3C+Don't+You+Dare+Go+Hollow+%3E" alt="Typing SVG" />
 </p>
 
 **`In Learning`**
@@ -43,6 +41,11 @@ Estudando Python, Automação de Testes, QA e Desenvolvimento Back-end.
 >
 > "É difícil entender o universo se você estuda só um planeta."
 
+<p align="right">
+  <i>Keep learning.</i>
+  <br>
+  <img src="./assets/solaire.gif" width="100">
+</p>
 ###
 
 <picture>
