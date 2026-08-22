@@ -21,12 +21,21 @@ Estudando Python, Automação de Testes, QA e Desenvolvimento Back-end.
         width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   />
+
   <img
         alt="Pytest"
         title="Pytest"
         width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg"
   />
+  
+  <img
+        alt="Pytest"
+        title="Pytest"
+        width="30px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
+  
   <img
         alt="Playwright"
         title="Playwright"
