@@ -21,27 +21,43 @@ Estudando Python, Automação de Testes, QA e Desenvolvimento Back-end.
         width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   />
-
+    <img
+        alt="JavaScript"
+        title="JavaScript"
+        width="25px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
   <img
         alt="Pytest"
         title="Pytest"
         width="30px"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg"
   />
-  
   <img
-        alt="Pytest"
-        title="Pytest"
+        alt="Cypress"
+        title="Cypress"
         width="30px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
   />
-  
   <img
-        alt="Playwright"
-        title="Playwright"
+        alt="FastAPI"
+        title="FastAPI"
         width="30px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
   />
+  <img
+        alt="Postgresql"
+        title="Postgresql"
+        width="30px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+  />
+  <img
+        alt="Postman"
+        title="Postman"
+        width="30px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+  />
+ 
 </p>
 
 ### 💭 Filosofia de aprendizado
