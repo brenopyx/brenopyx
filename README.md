@@ -10,6 +10,19 @@ Hello, I'm Breno
 
 Recently, I've been focusing on learning programming, strengthening my fundamentals, and exploring the principles of Software Engineering, including software architecture, system design, and best development practices.
 
+### 💭 Learning philosophy
+
+> "Know the ways of all arts and crafts." — Miyamoto Musashi
+>
+> "It's difficult to understand the universe if you only study one planet."
+
+<p align="right">
+  <i>Keep learning.</i>
+  <br>
+  <img src="./assets/solaire.gif" width="100">
+</p>
+
+
 ---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brenopyx/brenopyx/pacman-output/bomberman-contribution-graph-dark.svg">
