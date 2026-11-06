@@ -6,71 +6,9 @@
 
 **`In Learning`**
 
-Me chamo Breno Cruz, tenho 25 anos.
+Hello, I'm Breno
 
-Estudando Python, Automação de Testes, QA e Desenvolvimento Back-end.
-
----
-
-### 🤖 Linguagens e Tecnologias
-
-<p align="left">
-    <img
-        alt="Python"
-        title="Python"
-        width="30px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-  />
-    <img
-        alt="JavaScript"
-        title="JavaScript"
-        width="25px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  />
-  <img
-        alt="Pytest"
-        title="Pytest"
-        width="30px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg"
-  />
-  <img
-        alt="Cypress"
-        title="Cypress"
-        width="30px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
-  />
-  <img
-        alt="FastAPI"
-        title="FastAPI"
-        width="30px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-  />
-  <img
-        alt="Postgresql"
-        title="Postgresql"
-        width="30px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-  />
-  <img
-        alt="Postman"
-        title="Postman"
-        width="30px"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-  />
- 
-</p>
-
-### 💭 Filosofia de aprendizado
-
-> "Conheça os caminhos de todas as artes e ofícios." — Miyamoto Musashi
->
-> "É difícil entender o universo se você estuda só um planeta."
-
-<p align="right">
-  <i>Keep learning.</i>
-  <br>
-  <img src="./assets/solaire.gif" width="100">
-</p>
+Recently, I've been focusing on learning programming, strengthening my fundamentals, and exploring the principles of Software Engineering, including software architecture, system design, and best development practices.
 
 ---
 <picture>
